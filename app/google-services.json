@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854196841893",
+    "project_id": "glad-junior",
+    "storage_bucket": "glad-junior.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854196841893:android:142a6c32a5b3084a248c4c",
+        "android_client_info": {
+          "package_name": "com.kotlinliza.gladjunior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854196841893-vupn59c3813tv9hu8d8jo5lbjld8acfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoOlmaHZlSZMhPjdiHW59kgSb7LVdTYWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854196841893-vupn59c3813tv9hu8d8jo5lbjld8acfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
